@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Header Branding feature.
+ */
+
+include_once 'header_branding.features.inc';
